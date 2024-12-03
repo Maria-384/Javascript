@@ -21,4 +21,4 @@ function escopoLocal() {
     console.log(local);
 }
 escopoLocal();
-// console.log(local); // Erro: 'local' é inacessível fora da função
+ console.log(local); // Erro: 'local' é inacessível fora da função
